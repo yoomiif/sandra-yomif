@@ -10,19 +10,8 @@ html {
     top: 0;
     left: 0;
     width: 100%;
-
 }
 
 #welcome-section {
     height: 100vh;
-}
-
-
-
-
-@media screen and (max-width: 600px) {
-    #navbar {
-        font-weight: 500;
-        align-items: center;
-    }
 }
